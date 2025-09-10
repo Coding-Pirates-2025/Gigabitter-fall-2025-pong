@@ -55,7 +55,7 @@ while (!Raylib.WindowShouldClose())
 
 
 ### Render DrawRectangle 
-```
+```cs
 // Draw a color-filled rectangle
 // void DrawRectangle(int posX, int posY, int width, int height, Color color); 
 
@@ -63,7 +63,7 @@ Raylib.DrawRectangle(10, 10, 10, 10, Color.Blue);
 ```
 
 ### Render DrawRectangleV
-```
+```cs
 // Draw a color-filled rectangle (Vector version)
 // void DrawRectangleV(Vector2 position, Vector2 size, Color color); 
 
@@ -73,7 +73,7 @@ Raylib.DrawRectangleV(pos, size, Color.Blue);
 ```
 
 ### Render DrawCircleV
-```
+```cs
 // Draw a color-filled circle
 // DrawCircle(int centerX, int centerY, float radius, Color color);     
 
@@ -82,7 +82,7 @@ Raylib.DrawCircle(10, 10, 10, Color.Blue);
 ```
 
 ### Render DrawCircle 
-```
+```cs
 // Draw a color-filled circle (Vector version)
 // void DrawCircleV(Vector2 center, float radius, Color color); 
 
@@ -91,7 +91,7 @@ Raylib.DrawCircleV(center, 10, Color.Blue);
 ```
 
 ### Render DrawText
-```
+```cs
 // Draw text (using default font)
 // void DrawText(const char *text, int posX, int posY, int fontSize, Color color); 
 
