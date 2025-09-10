@@ -101,3 +101,9 @@ Raylib.DrawCircleV(center, 10, Color.Blue);
 
 Raylib.DrawText("text", 10, 10, 20, Color.Blue);
 ```
+
+
+## Run project
+```
+dotnet run
+```
