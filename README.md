@@ -1,10 +1,14 @@
 # GigaBit-fall-2025-pong
 
 ## Getting started
+
 ### Install IDE/Code editor
 We recommed `Visual Studio`, but any code editor can be used.
 
 Install `Visual Studio` [here](https://visualstudio.microsoft.com/downloads/)
+
+### Install `.Net` (DotNet)
+Install `.Net` [here](https://dotnet.microsoft.com/en-us/download)
 
 ### Create Console App
 This can be done in the console/terminal with 
